@@ -1,0 +1,5 @@
+const myArray = ["camel", 265, true, "5.6"];
+const bulb = { watts: 10, type: "LED" };
+const multiplyByFour = (num) => 4 * num;
+
+export { myArray, bulb, multiplyByFour };
